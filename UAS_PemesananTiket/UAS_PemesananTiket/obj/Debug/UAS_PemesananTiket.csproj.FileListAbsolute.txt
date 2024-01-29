@@ -1,0 +1,12 @@
+C:\Hani\smt 2\progamming\UAS_PemesananTiket\UAS_PemesananTiket\bin\Debug\UAS_PemesananTiket.exe.config
+C:\Hani\smt 2\progamming\UAS_PemesananTiket\UAS_PemesananTiket\bin\Debug\UAS_PemesananTiket.exe
+C:\Hani\smt 2\progamming\UAS_PemesananTiket\UAS_PemesananTiket\bin\Debug\UAS_PemesananTiket.pdb
+C:\Hani\smt 2\progamming\UAS_PemesananTiket\UAS_PemesananTiket\obj\Debug\UAS_PemesananTiket.csprojResolveAssemblyReference.cache
+C:\Hani\smt 2\progamming\UAS_PemesananTiket\UAS_PemesananTiket\obj\Debug\UAS_PemesananTiket.exe
+C:\Hani\smt 2\progamming\UAS_PemesananTiket\UAS_PemesananTiket\obj\Debug\UAS_PemesananTiket.pdb
+C:\Hani\smt 2\Pemrograman\UAS_PemesananTiket\UAS_PemesananTiket\bin\Debug\UAS_PemesananTiket.exe.config
+C:\Hani\smt 2\Pemrograman\UAS_PemesananTiket\UAS_PemesananTiket\obj\Debug\UAS_PemesananTiket.exe
+C:\Hani\smt 2\Pemrograman\UAS_PemesananTiket\UAS_PemesananTiket\obj\Debug\UAS_PemesananTiket.pdb
+C:\Hani\smt 2\Pemrograman\UAS_PemesananTiket\UAS_PemesananTiket\bin\Debug\UAS_PemesananTiket.exe
+C:\Hani\smt 2\Pemrograman\UAS_PemesananTiket\UAS_PemesananTiket\bin\Debug\UAS_PemesananTiket.pdb
+C:\Hani\smt 2\Pemrograman\UAS_PemesananTiket\UAS_PemesananTiket\obj\Debug\UAS_PemesananTiket.csprojResolveAssemblyReference.cache
